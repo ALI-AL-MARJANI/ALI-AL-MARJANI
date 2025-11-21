@@ -12,4 +12,4 @@ I like working on projects where experimentation, clarity, and performance all m
 
 ## Contact
 **Email:** aliamrjani@gmail.com  
-**GitHub:** https://github.com/Ali322O
+**GitHub:** https://github.com/ALI-AL-MARJANI
